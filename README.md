@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassansheikh33
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m currently learning Next Js
 - 💞️ I’m looking to collaborate on any kind of React js projects.
 - 📫 You can contact me through my email (hassansheikh9p9@gmail.com)
 - 😄 Pronouns: he/him
